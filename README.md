@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
- 🌱 I’m currently learning Kotlin, API Rest, Retrofit and Adapter 
+ 🌱 I’m currently learning Kotlin, Xml and Git
 
  <div>
   <a href="https://github.com/danbalves">

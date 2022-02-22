@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
- 🌱 I’m currently learning Kotlin, Xml and Git
+ 🌱 I’m currently learning Kotlin, Xml, MVVM, Retrofit and Coroutines
 
  <div>
   <a href="https://github.com/danbalves">

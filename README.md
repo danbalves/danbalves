@@ -1,6 +1,6 @@
-### Hello, World! 👋
+### Hello 👋
 
- 🌱 I’m currently learning Kotlin, Xml, MVVM, Retrofit, RecycleView, Adapter, ViewHolder and Coroutines
+ 🌱 I’m currently learning Kotlin, Xml, Retrofit, Koin, Coroutines, MVVM, GitFlow, SOLID and Clean Architecture
 
  <div>
   <a href="https://github.com/danbalves">

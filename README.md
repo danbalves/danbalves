@@ -1,6 +1,6 @@
 ### Hello 👋
 
- 🌱 I’m currently learning Kotlin, Xml, Retrofit, Koin, Coroutines, MVVM, GitFlow, SOLID and Clean Architecture
+ 🌱 I’m currently working as an Android Developer.  
 
  <div>
   <a href="https://github.com/danbalves">

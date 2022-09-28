@@ -1,6 +1,6 @@
 ### Hello 👋
 
- 🌱 I’m currently working as an Android Developer.  
+ 🌱 I'm currently learning Jetpack Compose, MVVM, Room, Repository and Firebase.
 
  <div>
   <a href="https://github.com/danbalves">

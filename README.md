@@ -1,6 +1,6 @@
 ### Hello 👋
 
- 🌱 I'm currently learning Jetpack Compose, MVVM, Room, Repository and Firebase.
+ 🌱 I'm a Android Developer (Kotlin/Java) and currently learning spring boot framework to be a fullstack Mobile Developer.
 
  <div>
   <a href="https://github.com/danbalves">

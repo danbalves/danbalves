@@ -1,6 +1,6 @@
 ### Hello 👋
 
- 🌱 I'm a Android Developer (Kotlin/Java) and currently learning spring boot framework to be a fullstack Mobile Developer.
+ 🌱 I'm a Android Developer (Kotlin/Java) and currently learning back-end development.
 
  <div>
   <a href="https://github.com/danbalves">

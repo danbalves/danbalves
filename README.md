@@ -1,6 +1,6 @@
 ### Hello 👋
 
- 🌱 I'm a Android Developer (Kotlin/Java) and currently learning back-end development.
+ 🌱 I'm a Android Developer (Kotlin/Java) with 2 years of experience, currently migrating to full-stack development with emphazy in serve-side (spring boot and nodejs)...
 
  <div>
   <a href="https://github.com/danbalves">
@@ -12,6 +12,14 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img aling="center" height="30"> widht="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">  
 </div>
   
   ##

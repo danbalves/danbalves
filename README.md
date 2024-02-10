@@ -1,6 +1,6 @@
 ### Hello 👋
 
- 🌱 I'm a Android Developer (Kotlin/Java) with 2 years of experience, currently migrating to full-stack development with emphazy in serve-side (spring boot and nodejs)...
+ 🌱 I'm a Software Developer with 2 years of experience, currently migrating to full-stack development with emphazy in serve-side (spring boot and nodejs)...
 
  <div>
   <a href="https://github.com/danbalves">
